@@ -1,0 +1,520 @@
+{
+  "global": {},
+  "test": {},
+  "Palette/Mode 1": {
+    "Coral": {
+      "20": {
+        "value": "#fff2f0",
+        "type": "color"
+      },
+      "50": {
+        "value": "#feded7",
+        "type": "color"
+      },
+      "100": {
+        "value": "#fdc5ba",
+        "type": "color"
+      },
+      "200": {
+        "value": "#fdab9b",
+        "type": "color"
+      },
+      "300": {
+        "value": "#fc9a86",
+        "type": "color"
+      },
+      "400": {
+        "value": "#fc8269",
+        "type": "color"
+      },
+      "500": {
+        "value": "#fb6e52",
+        "type": "color"
+      },
+      "600": {
+        "value": "#c95842",
+        "type": "color"
+      },
+      "700": {
+        "value": "#a7432f",
+        "type": "color"
+      },
+      "800": {
+        "value": "#974231",
+        "type": "color"
+      },
+      "900": {
+        "value": "#672e22",
+        "type": "color"
+      }
+    },
+    "Grayscale": {
+      "50": {
+        "value": "#f5f5f5",
+        "type": "color"
+      },
+      "100": {
+        "value": "#dbdbdb",
+        "type": "color"
+      },
+      "200": {
+        "value": "#c2c2c2",
+        "type": "color"
+      },
+      "300": {
+        "value": "#a8a8a8",
+        "type": "color"
+      },
+      "400": {
+        "value": "#8f8f8f",
+        "type": "color"
+      },
+      "500": {
+        "value": "#757575",
+        "type": "color"
+      },
+      "600": {
+        "value": "#5c5c5c",
+        "type": "color"
+      },
+      "700": {
+        "value": "#424242",
+        "type": "color"
+      },
+      "800": {
+        "value": "#292929",
+        "type": "color"
+      },
+      "900": {
+        "value": "#1a1a1a",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "Red": {
+      "50": {
+        "value": "#ffebee",
+        "type": "color"
+      },
+      "100": {
+        "value": "#ffcdd2",
+        "type": "color"
+      },
+      "200": {
+        "value": "#ef9a9a",
+        "type": "color"
+      },
+      "300": {
+        "value": "#e57373",
+        "type": "color"
+      },
+      "400": {
+        "value": "#ef5350",
+        "type": "color"
+      },
+      "500": {
+        "value": "#f44336",
+        "type": "color"
+      },
+      "600": {
+        "value": "#e53935",
+        "type": "color"
+      },
+      "700": {
+        "value": "#d32f2f",
+        "type": "color"
+      },
+      "800": {
+        "value": "#c62828",
+        "type": "color"
+      },
+      "900": {
+        "value": "#b71c1c",
+        "type": "color"
+      }
+    },
+    "Blue": {
+      "50": {
+        "value": "#e3f2fd",
+        "type": "color"
+      },
+      "100": {
+        "value": "#bbdefb",
+        "type": "color"
+      },
+      "200": {
+        "value": "#90caf9",
+        "type": "color"
+      },
+      "300": {
+        "value": "#64b5f6",
+        "type": "color"
+      },
+      "400": {
+        "value": "#42a5f5",
+        "type": "color"
+      },
+      "500": {
+        "value": "#2196f3",
+        "type": "color"
+      },
+      "600": {
+        "value": "#1e88e5",
+        "type": "color"
+      },
+      "700": {
+        "value": "#1976d2",
+        "type": "color"
+      },
+      "800": {
+        "value": "#1565c0",
+        "type": "color"
+      },
+      "900": {
+        "value": "#0d47a1",
+        "type": "color"
+      }
+    },
+    "Khaki": {
+      "20": {
+        "value": "#edf2ef",
+        "type": "color"
+      },
+      "50": {
+        "value": "#e2e9e5",
+        "type": "color"
+      },
+      "100": {
+        "value": "#bbcdc2",
+        "type": "color"
+      },
+      "200": {
+        "value": "#a1baaa",
+        "type": "color"
+      },
+      "300": {
+        "value": "#89a894",
+        "type": "color"
+      },
+      "400": {
+        "value": "#6a9579",
+        "type": "color"
+      },
+      "500": {
+        "value": "#568366",
+        "type": "color"
+      },
+      "600": {
+        "value": "#456952",
+        "type": "color"
+      },
+      "700": {
+        "value": "#3c5d48",
+        "type": "color"
+      },
+      "800": {
+        "value": "#344f3d",
+        "type": "color"
+      },
+      "900": {
+        "value": "#283e2f",
+        "type": "color"
+      }
+    }
+  },
+  "Sementic/Mode 1": {
+    "Gray": {
+      "Strong": {
+        "value": "#1a1a1a",
+        "type": "color",
+        "description": "제목 등 강조를 해야할 때"
+      },
+      "Normal": {
+        "value": "#292929",
+        "type": "color",
+        "description": "일반적인 경우"
+      },
+      "Neutral": {
+        "value": "#5c5c5c",
+        "type": "color",
+        "description": "Alternative보다 가시성을 높게 잡아야할 때"
+      },
+      "Alternative": {
+        "value": "#8f8f8f",
+        "type": "color",
+        "description": "부가적인 정보를 표시해야 할 때"
+      },
+      "Assistive": {
+        "value": "#c2c2c2",
+        "type": "color",
+        "description": "흐리지만 사용자가 알아야하는 내용을 표시할 때"
+      },
+      "Disable": {
+        "value": "#a8a8a880",
+        "type": "color",
+        "description": "비활성화된 요소 표시"
+      },
+      "Opacity30": {
+        "value": "#c2c2c24d",
+        "type": "color",
+        "description": "Disable보다 흐리지만, White와 구분되어야 하는 상황"
+      }
+    },
+    "Primary": {
+      "Mid": {
+        "value": "#fb6e52",
+        "type": "color"
+      },
+      "High": {
+        "value": "#a7432f",
+        "type": "color"
+      },
+      "Dark": {
+        "value": "#672e22",
+        "type": "color"
+      },
+      "Low": {
+        "value": "#fc9a86",
+        "type": "color"
+      },
+      "Light": {
+        "value": "#fff2f0",
+        "type": "color"
+      },
+      "Light_Opacity35": {
+        "value": "#fff2f059",
+        "type": "color"
+      },
+      "Light_Opacity7": {
+        "value": "#feded712",
+        "type": "color"
+      }
+    },
+    "Error": {
+      "Mid": {
+        "value": "{Red.600}",
+        "type": "color"
+      },
+      "Low": {
+        "value": "{Red.200}",
+        "type": "color"
+      },
+      "Light": {
+        "value": "{Red.50}",
+        "type": "color"
+      },
+      "High": {
+        "value": "{Red.900}",
+        "type": "color"
+      }
+    },
+    "Able": {
+      "Mid": {
+        "value": "{Blue.600}",
+        "type": "color"
+      },
+      "Low": {
+        "value": "{Blue.300}",
+        "type": "color"
+      },
+      "Light": {
+        "value": "{Blue.50}",
+        "type": "color"
+      },
+      "High": {
+        "value": "{Blue.900}",
+        "type": "color"
+      }
+    },
+    "Common": {
+      "White": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Black": {
+        "value": "#1a1a1a",
+        "type": "color"
+      }
+    },
+    "Secondary": {
+      "Dark": {
+        "value": "#283e2f",
+        "type": "color"
+      },
+      "High": {
+        "value": "#3c5d48",
+        "type": "color"
+      },
+      "Mid": {
+        "value": "#568366",
+        "type": "color"
+      },
+      "Low": {
+        "value": "#89a894",
+        "type": "color"
+      },
+      "Light": {
+        "value": "#edf2ef",
+        "type": "color"
+      },
+      "Light_Opacity35": {
+        "value": "#edf2ef59",
+        "type": "color"
+      }
+    }
+  },
+  "Sementic/Dark": {
+    "Gray": {
+      "Strong": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "제목 등 강조를 해야할 때"
+      },
+      "Normal": {
+        "value": "#f7f7f8",
+        "type": "color",
+        "description": "일반적인 경우"
+      },
+      "Neutral": {
+        "value": "#c2c4c8e0",
+        "type": "color",
+        "description": "Alternative보다 가시성을 높게 잡아야할 때"
+      },
+      "Alternative": {
+        "value": "#aeb0b69c",
+        "type": "color",
+        "description": "부가적인 정보를 표시해야 할 때"
+      },
+      "Assistive": {
+        "value": "#aeb0b647",
+        "type": "color",
+        "description": "흐리지만 사용자가 알아야하는 내용을 표시할 때"
+      },
+      "Disable": {
+        "value": "#989ba229",
+        "type": "color",
+        "description": "비활성화된 요소 표시"
+      },
+      "Opacity30": {
+        "value": "#c2c2c24d",
+        "type": "color",
+        "description": "Disable보다 흐리지만, White와 구분되어야 하는 상황"
+      }
+    },
+    "Primary": {
+      "Mid": {
+        "value": "#fb6e52",
+        "type": "color"
+      },
+      "High": {
+        "value": "#a7432f",
+        "type": "color"
+      },
+      "Dark": {
+        "value": "#672e22",
+        "type": "color"
+      },
+      "Low": {
+        "value": "#fc9a86",
+        "type": "color"
+      },
+      "Light": {
+        "value": "#fff2f0",
+        "type": "color"
+      },
+      "Light_Opacity35": {
+        "value": "#fff2f059",
+        "type": "color"
+      },
+      "Light_Opacity7": {
+        "value": "#feded712",
+        "type": "color"
+      }
+    },
+    "Error": {
+      "Mid": {
+        "value": "#f44336",
+        "type": "color"
+      },
+      "Low": {
+        "value": "#f44336",
+        "type": "color"
+      },
+      "Light": {
+        "value": "#f44336",
+        "type": "color"
+      },
+      "High": {
+        "value": "#f44336",
+        "type": "color"
+      }
+    },
+    "Able": {
+      "Mid": {
+        "value": "#1e88e5",
+        "type": "color"
+      },
+      "Low": {
+        "value": "#64b5f6",
+        "type": "color"
+      },
+      "Light": {
+        "value": "#64b5f6",
+        "type": "color"
+      },
+      "High": {
+        "value": "#64b5f6",
+        "type": "color"
+      }
+    },
+    "Common": {
+      "White": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Black": {
+        "value": "#1a1a1a",
+        "type": "color"
+      }
+    },
+    "Secondary": {
+      "Dark": {
+        "value": "#283e2f",
+        "type": "color"
+      },
+      "High": {
+        "value": "#3c5d48",
+        "type": "color"
+      },
+      "Mid": {
+        "value": "#568366",
+        "type": "color"
+      },
+      "Low": {
+        "value": "#89a894",
+        "type": "color"
+      },
+      "Light": {
+        "value": "#edf2ef",
+        "type": "color"
+      },
+      "Light_Opacity35": {
+        "value": "#edf2ef59",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "test",
+      "Palette/Mode 1",
+      "Sementic/Mode 1",
+      "Sementic/Dark"
+    ]
+  }
+}
